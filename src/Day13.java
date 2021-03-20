@@ -4,7 +4,21 @@ public class Day13 {
     /**
      * Day 13: Abstract Classes
      */
-    public abstract class Book {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        String title = scanner.nextLine();
+        String author = scanner.nextLine();
+        int price = scanner.nextInt();
+        scanner.close();
+
+        Book book = new MyBook(title, author, price);
+        book.display();
+    }
+}
+
+
+
+    abstract class Book {
         String title;
         String author;
 
@@ -49,16 +63,4 @@ public class Day13 {
         void display() {
             System.out.println("Title: " + title + "\n" + "Author: " + author + "\n" + "Price: " + price);
         }
-
-        public static void main(String[] args) {
-            Scanner scanner = new Scanner(System.in);
-            String title = scanner.nextLine();
-            String author = scanner.nextLine();
-            int price = scanner.nextInt();
-            scanner.close();
-
-            Book book = new MyBook(title, author, price);
-            book.display();
-        }
     }
-}

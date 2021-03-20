@@ -3,9 +3,8 @@ import java.util.Scanner;
 /**
  * Day 12: Inheritance
  */
-public class Day12 {
 
-    public class Person {
+    class Person {
         protected String firstName;
         protected String lastName;
         protected int idNumber;
@@ -61,11 +60,14 @@ public class Day12 {
                 return 'A';
             } else if (sum >= 55 && sum < 70) {
                 return 'P';
-            }else if (sum >= 40 && sum < 55) {
+            } else if (sum >= 40 && sum < 55) {
                 return 'D';
-            }else
+            } else
                 return 'T';
         }
+    }
+
+public class Day12 {
 
         public static void main(String[] args) {
             Scanner scan = new Scanner(System.in);
@@ -84,3 +86,4 @@ public class Day12 {
             System.out.println("Grade: " + s.calculate());
         }
 }
+
