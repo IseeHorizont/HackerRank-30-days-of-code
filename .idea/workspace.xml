@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1187a56-6c1a-4e05-809b-4b173bdf1850" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Day21">
     <configuration name="Day20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day20" />
       <module name="HackerRank-30-days-of-code" />
@@ -46,21 +45,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Day21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day21" />
+      <module name="HackerRank-30-days-of-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day21" />
         <item itemvalue="Application.Day20" />
       </list>
     </recent_temporary>
@@ -75,8 +80,17 @@
       <updated>1616723171175</updated>
       <workItem from="1616723173084" duration="44000" />
       <workItem from="1616804890101" duration="311000" />
-      <workItem from="1616812665521" duration="2353000" />
+      <workItem from="1616812665521" duration="2454000" />
+      <workItem from="1616888621444" duration="281000" />
     </task>
+    <task id="LOCAL-00001" summary="completed day 20">
+      <created>1616815178607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616815178607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +107,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed day 20" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed day 20" />
   </component>
 </project>
