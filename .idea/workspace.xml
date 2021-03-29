@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1187a56-6c1a-4e05-809b-4b173bdf1850" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day15.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Day21">
+  <component name="RunManager" selected="Application.Day22">
     <configuration name="Day20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day20" />
       <module name="HackerRank-30-days-of-code" />
@@ -47,6 +48,13 @@
     </configuration>
     <configuration name="Day21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day21" />
+      <module name="HackerRank-30-days-of-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day22" />
       <module name="HackerRank-30-days-of-code" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -65,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day22" />
         <item itemvalue="Application.Day21" />
         <item itemvalue="Application.Day20" />
       </list>
@@ -81,7 +90,9 @@
       <workItem from="1616723173084" duration="44000" />
       <workItem from="1616804890101" duration="311000" />
       <workItem from="1616812665521" duration="2454000" />
-      <workItem from="1616888621444" duration="281000" />
+      <workItem from="1616888621444" duration="491000" />
+      <workItem from="1616974143006" duration="1792000" />
+      <workItem from="1616981841949" duration="2105000" />
     </task>
     <task id="LOCAL-00001" summary="completed day 20">
       <created>1616815178607</created>
@@ -90,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616815178607</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed day21">
+      <created>1616889131035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616889131035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +128,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed day 20" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed day 20" />
+    <MESSAGE value="completed day21" />
+    <MESSAGE value="completed day22" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed day22" />
   </component>
 </project>
