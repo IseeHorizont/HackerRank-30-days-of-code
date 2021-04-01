@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1187a56-6c1a-4e05-809b-4b173bdf1850" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Day24">
-    <configuration name="Day20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day20" />
-      <module name="HackerRank-30-days-of-code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day25">
     <configuration name="Day21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day21" />
       <module name="HackerRank-30-days-of-code" />
@@ -78,24 +69,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration name="Day25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25" />
+      <module name="HackerRank-30-days-of-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day25" />
         <item itemvalue="Application.Day24" />
         <item itemvalue="Application.Day23" />
         <item itemvalue="Application.Day22" />
         <item itemvalue="Application.Day21" />
-        <item itemvalue="Application.Day20" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +116,8 @@
       <workItem from="1617059391377" duration="447000" />
       <workItem from="1617060522352" duration="2277000" />
       <workItem from="1617068506644" duration="209000" />
-      <workItem from="1617147065073" duration="1574000" />
+      <workItem from="1617147065073" duration="1655000" />
+      <workItem from="1617239970468" duration="4677000" />
     </task>
     <task id="LOCAL-00001" summary="completed day 20">
       <created>1616815178607</created>
@@ -146,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617068611640</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="completed day24">
+      <created>1617149036962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617149036963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +177,8 @@
     <MESSAGE value="completed day21" />
     <MESSAGE value="completed day22" />
     <MESSAGE value="completed day23" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed day23" />
+    <MESSAGE value="completed day24" />
+    <MESSAGE value="completed day25" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed day25" />
   </component>
 </project>
