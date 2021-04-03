@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1187a56-6c1a-4e05-809b-4b173bdf1850" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day27.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,13 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,7 +118,8 @@
       <workItem from="1617068506644" duration="209000" />
       <workItem from="1617147065073" duration="1655000" />
       <workItem from="1617239970468" duration="4685000" />
-      <workItem from="1617324082259" duration="3752000" />
+      <workItem from="1617324082259" duration="3859000" />
+      <workItem from="1617406800097" duration="403000" />
     </task>
     <task id="LOCAL-00001" summary="completed day 20">
       <created>1616815178607</created>
@@ -160,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617247023124</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="completed day26">
+      <created>1617329549887</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617329549888</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +195,8 @@
     <MESSAGE value="completed day23" />
     <MESSAGE value="completed day24" />
     <MESSAGE value="completed day25" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed day25" />
+    <MESSAGE value="completed day26" />
+    <MESSAGE value="completed day27" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed day27" />
   </component>
 </project>
