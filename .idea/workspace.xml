@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1187a56-6c1a-4e05-809b-4b173bdf1850" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day28.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day27.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,14 +41,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Day26">
-    <configuration name="Day22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day22" />
-      <module name="HackerRank-30-days-of-code" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Day28">
     <configuration name="Day23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day23" />
       <module name="HackerRank-30-days-of-code" />
@@ -76,26 +70,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Day28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day28" />
+      <module name="HackerRank-30-days-of-code" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day28" />
         <item itemvalue="Application.Day26" />
         <item itemvalue="Application.Day25" />
         <item itemvalue="Application.Day24" />
         <item itemvalue="Application.Day23" />
-        <item itemvalue="Application.Day22" />
       </list>
     </recent_temporary>
   </component>
@@ -119,7 +118,8 @@
       <workItem from="1617147065073" duration="1655000" />
       <workItem from="1617239970468" duration="4685000" />
       <workItem from="1617324082259" duration="3859000" />
-      <workItem from="1617406800097" duration="403000" />
+      <workItem from="1617406800097" duration="415000" />
+      <workItem from="1617495192635" duration="3312000" />
     </task>
     <task id="LOCAL-00001" summary="completed day 20">
       <created>1616815178607</created>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617329549888</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="completed day27">
+      <created>1617413799919</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617413799919</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
