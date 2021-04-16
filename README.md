@@ -4,4 +4,6 @@
 
 Day | Challenge's name | Solution
 ----|------------------|---------
-0   |some              | some
+0   | Hello, World     | some
+----|------------------|---------
+1   | Data Types       | some
