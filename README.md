@@ -4,7 +4,7 @@
 
 Day | Challenge's name                | Solution
 ----|---------------------------------|---------
-0   | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)| some
+0   | [Hello, World](https://www.hackerrank.com/challenges/30-hello-world/problem)| [Day0.java](https://github.com/IseeHorizont/HackerRank-30-days-of-code/blob/master/src/Day0.java)
 1   | [Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)   | some
 2   | [Operators](https://www.hackerrank.com/challenges/30-operators/problem)     | some
 3   | [Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | some
