@@ -1,4 +1,4 @@
-# ![](label30day.png =50x50)My challenge "30 Days of Code" on [Hackerrank](https://www.hackerrank.com/Isee
+# ![](label30day.png | width=50)My challenge "30 Days of Code" on [Hackerrank](https://www.hackerrank.com/Isee
 
 Day | Challenge's name                | Solution
 ----|---------------------------------|---------
