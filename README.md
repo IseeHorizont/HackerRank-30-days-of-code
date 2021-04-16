@@ -1,4 +1,4 @@
-# My challenge "30 Days of Code" ![](label30day.png) on [Hackerrank](https://www.hackerrank.com/IseeHorizont)
+# My challenge "30 Days of Code" on [Hackerrank](https://www.hackerrank.com/IseeHorizont)
 
 ![](label30day.png)
 
