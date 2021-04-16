@@ -1,4 +1,4 @@
-# My challenge "30 Days of Code" <img src="label30day.png" width="60" height="60"> on [Hackerrank](https://www.hackerrank.com/IseeHorizont)
+# <img src="label30day.png" width="60" height="60"> My challenge "30 Days of Code" on [Hackerrank](https://www.hackerrank.com/IseeHorizont)
 
 Day | Challenge's name                | Solution
 ----|---------------------------------|---------
