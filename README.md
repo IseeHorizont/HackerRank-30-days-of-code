@@ -1,4 +1,4 @@
-# ![](label30day.png) with <img src="label30day.png" width="50" height="50"> My challenge "30 Days of Code" on [Hackerrank](https://www.hackerrank.com/Isee
+# with <img src="label30day.png" width="50" height="50"> My challenge "30 Days of Code" on [Hackerrank](https://www.hackerrank.com/Isee
 
 Day | Challenge's name                | Solution
 ----|---------------------------------|---------
